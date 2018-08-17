@@ -1,0 +1,16 @@
+{
+	"short_name": "Reviews",
+	"name": "Udacity Restaurant Reviews Project - Stage Two",
+	"icons": [
+		{
+			"src": "Icons/Crpetas Coffe PAris By Canelita309 (4).png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+
+  ],
+	"start_url": "index.html",
+	"background_color": "#ffffff",
+	"theme_color": "#232654",
+	"display": "fullscreen"
+}
